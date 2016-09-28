@@ -17,3 +17,4 @@ missing
 .sconsign.dblite
 config.log
 .idea/
+build/
