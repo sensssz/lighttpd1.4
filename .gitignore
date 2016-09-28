@@ -16,3 +16,4 @@ missing
 .sconf_temp
 .sconsign.dblite
 config.log
+.idea/
